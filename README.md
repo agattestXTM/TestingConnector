@@ -1,4 +1,4 @@
-# TestingFiles
+# TestingConnector
 Example files for translation testing
 
 Everything should be in english. Nah, I'm joking.
