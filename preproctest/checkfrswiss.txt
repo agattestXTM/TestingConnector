@@ -1,0 +1,7 @@
+«Abc»
+Abc:
+Abc!
+Abc?
+Abc%
+Abc;
+Text above should not be marked as error in swissfr

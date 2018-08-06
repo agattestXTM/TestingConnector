@@ -1,0 +1,5 @@
+﻿word! ok not ok
+word ! not ok not
+wolololololo
+word % not
+word% ok
