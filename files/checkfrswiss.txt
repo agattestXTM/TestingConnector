@@ -10,7 +10,7 @@ Text above should not be marked as error in swissfr
 from tabdsadsdaddsd
 word. ok ok okc\xzczxc\
 word . not not not
-word, ok ok ok
+word, ok ok okdfdwefdsf
 word , not not not
 word! ok not ok
 word ! not ok not
